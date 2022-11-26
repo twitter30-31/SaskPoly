@@ -2,3 +2,5 @@
 #Please do not hard code
 #make use of variables and dynamic variables
 #Author: Yemi Olaleye
+echo "Please enter your name"
+read name
